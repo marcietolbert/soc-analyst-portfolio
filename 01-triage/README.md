@@ -14,10 +14,3 @@ This section contains practical workflows, checklists, and decision-making tools
 **Summary:** Investigated a malware alert involving a suspicious executable created on a domain controller. Validated file creation through process telemetry and corroborated the detection using VirusTotal (40/72 vendors). File execution and containment remained unverified.
 
 **[View Completed Triage Card](Yomal_Malware_Triage_Card.pdf)**
-
-## Planned Artifacts
-
-- First Five Minutes Checklist
-- Severity Rubric
-
-Additional artifacts will be added as they are developed and reviewed.
